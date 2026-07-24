@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="112" fill="#173A5E"/>
+
+  <!-- ήλιος που ανατέλλει -->
+  <circle cx="256" cy="252" r="74" fill="#E8DFC9"/>
+
+  <!-- ακτίνες -->
+  <g stroke="#E8DFC9" stroke-width="17" stroke-linecap="round" opacity="0.62">
+    <line x1="256" y1="118" x2="256" y2="148"/>
+    <line x1="161" y1="157" x2="182" y2="178"/>
+    <line x1="351" y1="157" x2="330" y2="178"/>
+    <line x1="122" y1="252" x2="152" y2="252"/>
+    <line x1="390" y1="252" x2="360" y2="252"/>
+  </g>
+
+  <!-- ορίζοντας -->
+  <rect x="86" y="326" width="340" height="15" rx="7" fill="#B23A2E"/>
+
+  <!-- δρόμος που απομακρύνεται -->
+  <path d="M212 452 L246 356 L266 356 L300 452 Z" fill="#E8DFC9" opacity="0.9"/>
+  <g fill="#173A5E">
+    <rect x="250" y="368" width="12" height="26" rx="5"/>
+    <rect x="248" y="406" width="16" height="30" rx="6"/>
+  </g>
+</svg>

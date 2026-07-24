@@ -1,0 +1,18 @@
+{
+  "name": "Η μέρα μου",
+  "short_name": "Η μέρα μου",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E8DFC9",
+  "theme_color": "#173A5E",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
